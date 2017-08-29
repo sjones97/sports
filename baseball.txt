@@ -1,3 +1,7 @@
 phillies
 yankees
 mets
+
+cubs
+dodgers
+padres
